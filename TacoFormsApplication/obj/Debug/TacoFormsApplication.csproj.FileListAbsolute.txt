@@ -1,0 +1,9 @@
+D:\desktoptop\PProjects\taco\TacoFormsApplication\TacoFormsApplication\bin\Debug\TacoFormsApplication.exe.config
+D:\desktoptop\PProjects\taco\TacoFormsApplication\TacoFormsApplication\bin\Debug\TacoFormsApplication.exe
+D:\desktoptop\PProjects\taco\TacoFormsApplication\TacoFormsApplication\bin\Debug\TacoFormsApplication.pdb
+D:\desktoptop\PProjects\taco\TacoFormsApplication\TacoFormsApplication\obj\Debug\TacoFormsApplication.csprojResolveAssemblyReference.cache
+D:\desktoptop\PProjects\taco\TacoFormsApplication\TacoFormsApplication\obj\Debug\TacoFormsApplication.Form1.resources
+D:\desktoptop\PProjects\taco\TacoFormsApplication\TacoFormsApplication\obj\Debug\TacoFormsApplication.Properties.Resources.resources
+D:\desktoptop\PProjects\taco\TacoFormsApplication\TacoFormsApplication\obj\Debug\TacoFormsApplication.csproj.GenerateResource.Cache
+D:\desktoptop\PProjects\taco\TacoFormsApplication\TacoFormsApplication\obj\Debug\TacoFormsApplication.exe
+D:\desktoptop\PProjects\taco\TacoFormsApplication\TacoFormsApplication\obj\Debug\TacoFormsApplication.pdb
